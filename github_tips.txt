@@ -1,4 +1,6 @@
 To commit remotely:
 git remote add origin https://github.com/github-ecosmart/github.git
 
+clone direct without subfolder 
+git clone url_address .a
 
